@@ -1,0 +1,6 @@
+Go to home directory
+Make a new repository, call it "bio"
+make a 3-line file called me.txt
+commit changes
+modify one line, add 4th line
+display differences between updated & original files.
